@@ -7,7 +7,14 @@ body {
     display: flex;
     align-items: center !important;
     padding-top: 50px;
-    padding : 50px 0px;
+    padding : 20px 0px;
+}
+
+.title_ {
+    padding-bottom: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
 }
 
 .canvas{
@@ -19,7 +26,7 @@ body {
 }
 
 .controls{
-    margin-top: 70px;
+    margin-top: 50px;
     display: flex;
     flex-direction: column;
     align-items: center;
